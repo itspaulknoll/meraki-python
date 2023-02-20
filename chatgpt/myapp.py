@@ -1,3 +1,5 @@
+# This app was created by Paul Knoll and ChatGPT to test its abilities to convert from a former bash script to a gui app
+
 import wx
 import subprocess
 
